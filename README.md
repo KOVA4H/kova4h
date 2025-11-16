@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center"><a href="https://github.com/yahochychereshnu">настя </a> и Филя</p>
+<p align="center"><a href="https://github.com/yahochychereshnu">настя </a>,Филя,Владик </p>
 
 ###
 
